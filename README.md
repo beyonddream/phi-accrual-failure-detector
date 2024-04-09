@@ -1,4 +1,2 @@
-Exercism C#
------------
+## The Phi Accrual Failure Detector
 
-Worked solution to Exercism C# 
