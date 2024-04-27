@@ -7,6 +7,6 @@
 /// </summary>
 public class PhiAccrualFailureDetector(double threshold, int maxSampleSize, TimeSpan minStdDeviation, TimeSpan acceptableHeartBeatPause, TimeSpan firstHeartbeatEstimate) 
 {
-    
+      
 
 }
